@@ -1,0 +1,13 @@
+numpy
+pandas 
+matplotlib
+scikit-learn
+seaborn
+scipy
+ipykernel
+openpyxl
+jinja2
+yellowbrick
+tabulate
+plotly
+nbformat ==
